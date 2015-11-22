@@ -1,4 +1,6 @@
-Preferences = React.createClass({
+import React, { Component } from 'react';
+
+export default class Preferences extends Component {
   render() {
     return (
       <div>
@@ -6,4 +8,4 @@ Preferences = React.createClass({
       </div>
     );
   }
-});
+};

@@ -1,4 +1,6 @@
-NoMatch = React.createClass({
+import React, { Component } from 'react';
+
+export default class NoMatch extends Component {
   render() {
     return (
       <div>
@@ -6,4 +8,4 @@ NoMatch = React.createClass({
       </div>
     );
   }
-});
+};
