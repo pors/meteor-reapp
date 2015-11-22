@@ -3,6 +3,7 @@
     "react-dom": "^0.14.2",
     "history": "^1.13.1",
     "react-router": "1.0.0",
-
+    "reapp-ui": "0.12.70",
+    
     "babel-loader": "^5.3.2"
 }
